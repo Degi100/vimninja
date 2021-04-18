@@ -10,8 +10,8 @@
 .left_top_layer,
 .right_top_layer,
 .center_layer,
-.left_botton_layer,
-.right_botton_layer {
+.left_bottom_layer,
+.right_bottom_layer {
   display: flex;
   padding: 1px;
   margin: 10px;
@@ -62,13 +62,13 @@
   width: 1000px;
   height: 60px;
 }
-.botton_layer {
+.bottom_layer {
   display: flex;
   width: 1000px;
   margin-top: 65px;
   margin-left: 30px;
 }
-.left_botton_layer {
+.left_bottom_layer {
   display: flex;
   flex-direction: column;
   margin-left: 220px;
@@ -96,7 +96,7 @@
 .master2_belt {
   background-color: powderblue;
 }
-.right_botton_layer {
+.right_bottom_layer {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

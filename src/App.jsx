@@ -17,12 +17,12 @@ function App() {
         </div>
       </div>
       <div className="center_layer">Center Layer</div>
-      <div className="botton_layer">
-        <div className="left_botton_layer">
+      <div className="bottom_layer">
+        <div className="left_bottom_layer">
           <div className="green_belt">Green Belt Commands</div>
           <div className="blue_belt">Blue Belt Commands</div>
         </div>
-        <div className="right_botton_layer">
+        <div className="right_bottom_layer">
           <div className="brown_belt">Brown Belt Commands</div>
           <div className="black_belt">Black Belt Commands</div>
           <div className="master_belt">Master Belt Commands</div>

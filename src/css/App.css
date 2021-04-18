@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.top_layer {
+  display: flex;
+  padding: 1px;
+}
+.left_top_layer,
+.right_top_layer,
+.center_layer,
+.left_botton_layer,
+.right_botton_layer {
+  display: flex;
+  padding: 1px;
+  margin: 10px;
+  border: 1px black solid;
+  background-color: rgb(61, 79, 117);
+  border-radius: 10px;
+}
+.white_belt,
+.yellow_belt,
+.purple_belt,
+.green_belt,
+.blue_belt,
+.brown_belt,
+.black_belt,
+.master_belt,
+.master1_belt,
+.master2_belt {
+  padding: 1px;
+  margin: 2px;
+  border: 1px black solid;
+  border-radius: 10px;
+}
+.white_belt {
+  background-color: white;
+}
+.yellow_belt {
+  background-color: yellow;
+}
+.orange_belt {
+  background-color: orange;
+  height: 900px;
+  width: 80px;
+  border: 2px black solid;
+}
+.purple_belt {
+  background-color: purple;
+}
+.middle_top_layer {
+  height: 200px;
+  margin: 2px;
+  background-color: slategray;
+  border-radius: 10px;
+}
+.center_layer {
+  width: 1000px;
+  position: absolute;
+  width: 1000px;
+  height: 60px;
+}
+.botton_layer {
+  display: flex;
+  width:1000px;
+  margin-top: 65px;
+  margin-left: 30px;
+
+}
+.left_botton_layer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 220px;
+  z-index: 1;
+}
+.green_belt {
+  background-color: green;
+}
+.blue_belt {
+  background-color: blue;
+}
+.brown_belt {
+  background-color: brown;
+}
+.black_belt {
+  background-color: black;
+  color: white;
+}
+.master_belt {
+  background-color: peachpuff;
+}
+.master1_belt {
+  background-color: palegreen;
+}
+.master2_belt {
+  background-color: powderblue;
+}
+.right_botton_layer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 400px;
+  margin-left: 100px;
+  height: 400px;
+}

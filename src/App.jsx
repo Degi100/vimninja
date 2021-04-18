@@ -1,6 +1,4 @@
 import "./css/App.css";
-import galaxy from "./pics/galaxy.png";
-
 function App() {
   return (
     <>

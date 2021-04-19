@@ -9,13 +9,13 @@ function App() {
         </div>
         <div className="middle_top_layer">
           <div className="orange_belt">Orange Belt Commands Layer
-          <div className="ninjalogo">tes</div></div>
+          <div className="ninjalogo"></div></div>
         </div>
         <div className="right_top_layer">
           <div className="purple_belt">Purple Belt Commands Layer</div>
         </div>
       </div>
-      <div className="center_layer">Center Layer</div>
+      <div className="center_layer">Center Layer Belt Commands</div>
       <div className="bottom_layer">
         <div className="left_bottom_layer">
           <div className="green_belt">Green Belt Commands</div>

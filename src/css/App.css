@@ -67,6 +67,7 @@ body{
   height: 60px;
   z-index: -1;
 }
+
 .left_bottom_layer {
   display: flex;
   flex-direction: column;
@@ -105,4 +106,12 @@ body{
 .bottom_layer {
   margin-top: 70px;
   width: fit-content;
+}
+.ninjalogo{
+  display:flex;
+  background-image: url(/src/pics/ninjalogo.png);
+  background-repeat: no-repeat;
+  height: 300px;
+  margin-top: 80px;
+ 
 }

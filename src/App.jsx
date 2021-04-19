@@ -8,7 +8,8 @@ function App() {
           <div className="yellow_belt">Yellow Belt Commands Layer</div>
         </div>
         <div className="middle_top_layer">
-          <div className="orange_belt">Orange Belt Commands Layer</div>
+          <div className="orange_belt">Orange Belt Commands Layer
+          <div className="ninjalogo">tes</div></div>
         </div>
         <div className="right_top_layer">
           <div className="purple_belt">Purple Belt Commands Layer</div>

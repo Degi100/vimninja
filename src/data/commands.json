@@ -1,0 +1,218 @@
+{
+  "Belts": {
+    "White": [
+    {
+        "title": "Replace Single Charater",
+        "command": "r",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Enter replace mode",
+        "command": "R",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Join line below to current one with one space in between them",
+        "command": "J",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Join line below to current one with no spaces",
+        "command": "gJ",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Change (replace) entire line",
+        "command": "cc",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Change (replace) to the end of line",
+        "command": "C",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Change inner word",
+        "command": "ciw",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Change (replace) to end of word",
+        "command": "cw",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Delete character and substitute text",
+        "command": "s",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Dele line and substitute text",
+        "command": "S",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Transpose two letters",
+        "command": "xp",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Undo",
+        "command": "u",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Redo",
+        "command": "^r",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      },
+      {
+        "title": "Repeat last command",
+        "command": ".",
+        "tutorial": "zB. YT-Link",
+        "howto": "Javascript-game",
+        "show": true
+      }
+    ]
+  },
+  "Yellow": [
+    {
+      "title": "Repeat last command",
+      "command": ".",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+    {
+      "title": "Yank single line",
+      "command": "yy/Y",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },    
+    {
+      "title": "Yank # of lines",
+      "command": "#Y",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+    {
+      "title": "Yank from curser to start of the next word",
+      "command": "yw",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+    {
+      "title": "Yank $ of lines with movement (hjkl)",
+      "command": "y#m",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+    {
+      "title": "Yank current line into named buffer a",
+      "command": "ayy",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+    {
+      "title": "Put (paste) after curser",
+      "command": "p",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+    {
+      "title": "put (paste) before the curser",
+      "command": "P",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+    {
+      "title": "Put text from buffer a before curser",
+      // "command": ""aP", !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+    {
+      "title": "Delete current line",
+      "command": "dd",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+    {
+      "title": "Dele # of lines with downward drom curser",
+      "command": "#dd",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+    {
+      "title": "Dele # of lines with movement",
+      "command": "#dm",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+          {
+      "title": "Delete to end of line",
+      "command": "D",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+          {
+      "title": "Delete word",
+      "command": "Dw",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+                     {
+      "title": "Delete Charakter at cursor",
+      "command": "x",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    },
+                     {
+      "title": "Delete backwards from cursor",
+      "command": "X",
+      "tutorial": "zB. YT-Link",
+      "howto": "Javascript-game",
+      "show": true
+    }
+  ]
+}

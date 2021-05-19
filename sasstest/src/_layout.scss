@@ -1,0 +1,25 @@
+@use 'variables' as v;
+
+header {
+  background-color: v.$mainHeaderColor;
+// background-image: v.$backgroundImageHeader;
+  font-size: v.$fontsize;
+  ul {
+      display: flex;
+      justify-content: space-around;
+      cursor: pointer; 
+      li:hover {
+          color: v.$navhov;
+      }
+    li {
+      list-style: none;
+      color: v.$navcol
+     
+    }
+  }
+
+  h1{
+      display:flex;
+      
+  }
+}

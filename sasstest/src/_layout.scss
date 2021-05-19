@@ -1,5 +1,9 @@
 @use 'variables' as v;
 
+body{
+    background-color: grey;
+}
+
 header {
   background-color: v.$mainHeaderColor;
 // background-image: v.$backgroundImageHeader;
